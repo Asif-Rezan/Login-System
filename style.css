@@ -1,0 +1,10 @@
+input{
+  
+  display :block;
+  margin: 10px;
+  align-items: center;
+  border: none;
+  border-bottom: solid 1px black;
+  padding-top: 10px;
+  
+}
